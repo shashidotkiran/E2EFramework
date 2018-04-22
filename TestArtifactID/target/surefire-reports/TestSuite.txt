@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 60.615 s <<< FAILURE! - in TestSuite
+validatetitle_02_landingpagetextvalidation(TestGroupID.TestArtifactID.validatetitleTest)  Time elapsed: 0.056 s  <<< FAILURE!
+java.lang.AssertionError: expected [Featured Cources] but found [FEATURED COURSES]
+	at TestGroupID.TestArtifactID.validatetitleTest.validatetitle_02_landingpagetextvalidation(validatetitleTest.java:33)
+

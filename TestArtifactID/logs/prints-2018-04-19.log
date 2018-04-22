@@ -1,0 +1,46 @@
+19:13:10.354 [main] INFO  TestGroupID.TestArtifactID.homepage - Login Button clicked in HomePage TestCasetest1@test.com Password test1 for user non restrcited user
+19:13:12.698 [main] INFO  TestGroupID.TestArtifactID.homepage - homepage_03_teardown
+19:13:22.619 [main] INFO  TestGroupID.TestArtifactID.validatenavbar - validatenavbar_01_initilize
+19:13:22.658 [main] INFO  TestGroupID.TestArtifactID.validatenavbar - validatenavbar_02_landingpagenavvalidation
+19:13:22.776 [main] INFO  TestGroupID.TestArtifactID.validatenavbar - validatenavbar_03_teardown
+19:20:11.430 [main] INFO  TestGroupID.TestArtifactID.validatetitleTest - validatetitle_01_initilize
+19:20:11.654 [main] INFO  TestGroupID.TestArtifactID.validatetitleTest - validatetitle_03_teardown
+19:20:14.978 [main] INFO  TestGroupID.TestArtifactID.homepage - homepage_01_initilize
+19:20:30.693 [main] INFO  TestGroupID.TestArtifactID.homepage - homepage_02_basepagenavigation
+19:20:30.693 [main] INFO  TestGroupID.TestArtifactID.homepage - Login Button clicked in HomePage TestCasetest@test.com Password test for user restrcited user
+19:20:40.839 [main] INFO  TestGroupID.TestArtifactID.homepage - homepage_02_basepagenavigation
+19:20:40.839 [main] INFO  TestGroupID.TestArtifactID.homepage - Login Button clicked in HomePage TestCasetest1@test.com Password test1 for user non restrcited user
+19:20:41.024 [main] INFO  TestGroupID.TestArtifactID.homepage - homepage_03_teardown
+19:20:54.748 [main] INFO  TestGroupID.TestArtifactID.validatenavbar - validatenavbar_01_initilize
+19:20:54.790 [main] INFO  TestGroupID.TestArtifactID.validatenavbar - validatenavbar_02_landingpagenavvalidation
+19:20:54.922 [main] INFO  TestGroupID.TestArtifactID.validatenavbar - validatenavbar_03_teardown
+21:36:42.047 [main] INFO  TestGroupID.TestArtifactID.validatetitleTest - validatetitle_01_initilize
+21:36:44.903 [main] INFO  TestGroupID.TestArtifactID.validatetitleTest - validatetitle_03_teardown
+21:36:48.281 [main] INFO  TestGroupID.TestArtifactID.homepage - homepage_01_initilize
+21:37:09.040 [main] INFO  TestGroupID.TestArtifactID.homepage - homepage_02_basepagenavigation
+21:37:09.040 [main] INFO  TestGroupID.TestArtifactID.homepage - Login Button clicked in HomePage TestCasetest@test.com Password test for user restrcited user
+21:37:19.096 [main] INFO  TestGroupID.TestArtifactID.homepage - homepage_02_basepagenavigation
+21:37:19.096 [main] INFO  TestGroupID.TestArtifactID.homepage - Login Button clicked in HomePage TestCasetest1@test.com Password test1 for user non restrcited user
+21:37:19.267 [main] INFO  TestGroupID.TestArtifactID.homepage - homepage_03_teardown
+21:37:31.255 [main] INFO  TestGroupID.TestArtifactID.validatenavbar - validatenavbar_01_initilize
+21:37:31.299 [main] INFO  TestGroupID.TestArtifactID.validatenavbar - validatenavbar_02_landingpagenavvalidation
+21:37:33.610 [main] INFO  TestGroupID.TestArtifactID.validatenavbar - validatenavbar_03_teardown
+22:23:55.084 [main] INFO  TestGroupID.TestArtifactID.validatetitleTest - validatetitle_01_initilize
+22:23:57.719 [main] INFO  TestGroupID.TestArtifactID.validatetitleTest - validatetitle_03_teardown
+22:24:01.061 [main] INFO  TestGroupID.TestArtifactID.homepage - homepage_01_initilize
+22:24:16.764 [main] INFO  TestGroupID.TestArtifactID.homepage - homepage_02_basepagenavigation
+22:24:16.765 [main] INFO  TestGroupID.TestArtifactID.homepage - Login Button clicked in HomePage TestCasetest@test.com Password test for user restrcited user
+22:24:26.581 [main] INFO  TestGroupID.TestArtifactID.homepage - homepage_02_basepagenavigation
+22:24:26.581 [main] INFO  TestGroupID.TestArtifactID.homepage - Login Button clicked in HomePage TestCasetest1@test.com Password test1 for user non restrcited user
+22:24:26.761 [main] INFO  TestGroupID.TestArtifactID.homepage - homepage_03_teardown
+22:24:37.465 [main] INFO  TestGroupID.TestArtifactID.validatenavbar - validatenavbar_01_initilize
+22:24:37.523 [main] INFO  TestGroupID.TestArtifactID.validatenavbar - validatenavbar_02_landingpagenavvalidation
+22:24:37.660 [main] INFO  TestGroupID.TestArtifactID.validatenavbar - validatenavbar_03_teardown
+22:30:25.220 [main] INFO  TestGroupID.TestArtifactID.validatetitleTest - validatetitle_01_initilize
+22:30:25.801 [main] INFO  TestGroupID.TestArtifactID.validatetitleTest - validatetitle_03_teardown
+22:30:29.135 [main] INFO  TestGroupID.TestArtifactID.homepage - homepage_01_initilize
+22:30:47.633 [main] INFO  TestGroupID.TestArtifactID.homepage - homepage_02_basepagenavigation
+22:30:47.633 [main] INFO  TestGroupID.TestArtifactID.homepage - Login Button clicked in HomePage TestCasetest@test.com Password test for user restrcited user
+22:30:58.005 [main] INFO  TestGroupID.TestArtifactID.homepage - homepage_02_basepagenavigation
+22:30:58.005 [main] INFO  TestGroupID.TestArtifactID.homepage - Login Button clicked in HomePage TestCasetest1@test.com Password test1 for user non restrcited user
+22:31:00.055 [main] INFO  TestGroupID.TestArtifactID.homepage - homepage_03_teardown

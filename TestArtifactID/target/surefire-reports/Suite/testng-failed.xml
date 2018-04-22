@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="TestGroupID.TestArtifactID.listners"/>
+    <listener class-name="resources.ExtentReporterNG"/>
+  </listeners>
+  <test name="Validating title and User login(failed)">
+    <classes>
+      <class name="TestGroupID.TestArtifactID.validatetitleTest">
+        <methods>
+          <include name="validatetitle_02_landingpagetextvalidation"/>
+        </methods>
+      </class> <!-- TestGroupID.TestArtifactID.validatetitleTest -->
+    </classes>
+  </test> <!-- Validating title and User login(failed) -->
+</suite> <!-- Failed suite [Suite] -->
